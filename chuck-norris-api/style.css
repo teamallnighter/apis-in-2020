@@ -1,0 +1,27 @@
+#data {
+	width: 600px;
+	border: black;
+	border-radius: 20px;
+	border-width: 5px;
+	border-style: solid;
+	box-shadow: 2px 4px 8px grey;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 20px;
+}
+
+#logo {
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 50px;
+	display: block;
+	border: black;
+	border-radius: 20px;
+	border-width: 5px;
+	border-style: solid;
+	box-shadow: 2px 4px 8px grey;
+}
+  
