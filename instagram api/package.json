@@ -1,0 +1,26 @@
+{
+  "name": "jquery.ig.feed",
+  "description": "Instagram Feed without access token. Not using the Instagram API",
+  "homepage": "https://github.com/teamallnighter",
+  "version": "1.0.0",
+  "keywords": ["instagram", "api"],
+  "author": {
+    "name": "Chris Connelly",
+    "email": "connellychris@me.com"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teamallnighter/jquery-ig-api"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-node-minify": "^1.5.0"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "build": "grunt build"
+  }
+}
